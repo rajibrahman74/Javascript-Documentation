@@ -22,8 +22,10 @@ body {
 /* Header style start  */
 
 header {
+    position: sticky;
+    top: 0;
     border: 1px solid #ccc;
-    height: 100%;
+    height: 100vh;
     background-color: #f2f2f2;
 }
 nav div {
